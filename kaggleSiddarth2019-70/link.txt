@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/taruntiwarihp/phishing-site-urls/data (kaggleIndian)
+https://www.kaggle.com/datasets/siddharthkumar25/malicious-and-benign-urls (this one)
